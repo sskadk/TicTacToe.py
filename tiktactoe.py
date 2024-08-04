@@ -84,3 +84,4 @@ if __name__ == '__main__':
         if(cwin != -1):
             print("Match over")
             break
+# Just Easy
